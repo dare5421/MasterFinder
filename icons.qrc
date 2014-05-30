@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>add2_256.png</file>
+        <file>Delete_Icon.png</file>
+        <file>arrow-down-c.png</file>
+        <file>arrow-up-c.png</file>
+    </qresource>
+</RCC>
